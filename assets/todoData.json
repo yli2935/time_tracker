@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "time": "1 min",
+      "image": "https://fastly.picsum.photos/id/305/700/200.jpg?hmac=bKEdHfeBF-dxvXqpuPnOXTFw4MZaf_1M9FTXGVnAMJU",
+      "totalTime": "100",
+      "completedTime": "10",
+      "abandonedTime": "5"
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "time": "20 min",
+      "image": "https://fastly.picsum.photos/id/570/700/200.jpg?hmac=OacpSaF_X-hLmYxuW_ghI40KmyNyf1oYHg1FwrkRChw",
+      "totalTime": "200",
+      "completedTime": "20",
+      "abandonedTime": "10"
+    },
+    {
+      "id": 3,
+      "title": "Learn React Router",
+      "time": "10 min",
+      "image": "https://fastly.picsum.photos/id/53/700/200.jpg?hmac=Vy96X2sALvJh-Pw7NjtMMG3K3lkSmBqPcDrRphi0t0M",
+      "totalTime": "300",
+      "completedTime": "11",
+      "abandonedTime": "1"
+    }
+  ]
+}
